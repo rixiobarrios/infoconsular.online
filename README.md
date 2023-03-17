@@ -1,4 +1,4 @@
-![Flag-Venezuela](https://user-images.githubusercontent.com/55994508/226018446-307c5202-45df-4898-875e-e4e4355909dc.jpg)
+![Flag-Venezuela](https://user-images.githubusercontent.com/55994508/226018446-307c5202-45df-4898-875e-e4e4355909dc.jpg width="600" height="300")
 
 # infoconsular.online
 
