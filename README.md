@@ -1,4 +1,6 @@
-![Flag-Venezuela](https://user-images.githubusercontent.com/55994508/226018446-307c5202-45df-4898-875e-e4e4355909dc.jpg | width=100)
+![Flag-Venezuela](https://user-images.githubusercontent.com/55994508/226018446-307c5202-45df-4898-875e-e4e4355909dc.jpg)
+
+<img src="https://user-images.githubusercontent.com/55994508/226018446-307c5202-45df-4898-875e-e4e4355909dc.jpg)" alt="Venezuelan flag" width="50" height="60" title="Venezuelan flag">
 
 # infoconsular.online
 
