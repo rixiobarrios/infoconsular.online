@@ -12,7 +12,7 @@ class Main extends Component {
                     <h1>infoconsular.online</h1>
                     <p>
                         Bienvenidos a la pagina de informacion consular para
-                        Venezolanos en E.E.U.U.
+                        Venezolanos en EEUU.
                     </p>
                     <ul className="header">
                         <li>
