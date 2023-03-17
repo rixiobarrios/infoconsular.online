@@ -7,7 +7,7 @@ class Consulares extends Component {
                 <h2>Asuntos Consulares</h2>
                 <p>
                     El Ministerio del Poder Popular para Relaciones Exteriores
-                    designo al Consulado de Venezuela en Mexico y en Canadá para que se
+                    designo al los consulado de Venezuela en Mexico y en Canadá para que se
                     ocupara de las operaciones consulares de los Venezolanos en
                     E.E.U.U.
                 </p>
