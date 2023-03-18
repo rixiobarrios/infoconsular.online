@@ -20,14 +20,14 @@ class Consulares extends Component {
                 <p>
                     <h3>
                         <u>
-                            Sobre página para trámites consulares para
-                            venezolanos en EEUU
+                            Sobre página de trámites consulares para venezolanos
+                            en EEUU
                         </u>
                     </h3>
-                    El 06 de septiembre del 2019, el gobierno de la República
+                    El 6 de septiembre del 2019, el gobierno de la República
                     Bolivariana de Venezuela habilitó una página de internet
                     para facilitar la realización de trámites a los venezolanos
-                    y las venezolanas en el territorio estadounidense.
+                    en el territorio estadounidense.
                     <br></br>
                     <a href="https://mppre.gob.ve/comunicado/venezuela-facilitara-gestion-eeuu-venezolanos/">
                         <i>Leer más...</i>

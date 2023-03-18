@@ -11,9 +11,8 @@ class Inicio extends Component {
                         <u>Sobre suspensión de relaciones diplomáticas</u>
                     </h3>
                     La República Bolivariana de Venezuela decidió cerrar sus
-                    consulados y embajada el 24 de Enero del 2019. Por lo tanto
-                    los Venezolanos que residimos en los Estado Unidos nos
-                    quedamos sin servicios consulares.
+                    consulados y embajada en los estados unidos de América el 24
+                    de Enero del 2019.
                 </p>
 
                 <p>
