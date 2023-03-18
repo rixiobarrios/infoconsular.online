@@ -9,10 +9,13 @@ class Main extends Component {
         return (
             <HashRouter>
                 <div>
-                    <h1>infoconsular.online</h1>
+                    <img
+                        src="/infoconsular_logo.png"
+                        alt="infoconsular.com logo"
+                    />
                     <p>
-                        Bienvenidos a la pagina de informacion consular para
-                        Venezolanos en EEUU.
+                        Bienvenidos a la página de información consular para
+                        Venezolanos en EEUU
                     </p>
                     <ul className="header">
                         <li>

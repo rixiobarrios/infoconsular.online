@@ -23,16 +23,16 @@ class Inicio extends Component {
                     Esta página fue creada por voluntarios con la intención de
                     prestar apoyo a nuestros compatriotas, sin fines de lucro ni
                     afiliaciones políticas.
-                    <b> No estamos afiliados al gobierno de Venezuela</b> ni
-                    tenemos conocimiento para prestar ayuda legal.
+                    <b> No estamos vínculados al gobierno de Venezuela</b> ni
+                    somos fuente de refencia legal.
                 </p>
                 <p>
                     <h3>
                         <u>Agradecimientos</u>
                     </h3>
                     Esperamos que la información que encuentre aqui le sea útil
-                    y por lo menos reponda algunas de sus inquietudes. ¡Gracias
-                    por visitarnos!
+                    y por lo menos reponda algunas de sus inquietudes. <br></br>
+                    ¡Gracias por visitarnos!
                 </p>
             </div>
         );

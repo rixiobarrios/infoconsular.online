@@ -15,7 +15,7 @@ class Migracion extends Component {
                     de <b> 5 años adicionales a la fecha de expiración.</b>
                     <br></br>
                     <a href="https://2017-2021-translations.state.gov/2019/06/07/estados-unidos-apoya-la-extension-de-la-validez-de-los-pasaportes-venezolanos/index.html">
-                        Leer más...
+                        <i>Leer más...</i>
                     </a>
                 </p>
                 <p>
@@ -31,7 +31,7 @@ class Migracion extends Component {
                     </b>
                     <br></br>
                     <a href="https://www.uscis.gov/es/programas-humanitarios/estatus-de-proteccion-temporal#:~:text=El%2011%20de%20julio%20de,10%20de%20marzo%20de%202024.">
-                        Leer más...
+                        <i>Leer más...</i>
                     </a>
                 </p>
                 <p>
@@ -47,7 +47,9 @@ class Migracion extends Component {
                     y crear un proceso más ordenado y seguro para quienes huyen
                     de la crisis humanitaria y económica en Venezuela.
                     <br></br>
-                    <a href="https://www.uscis.gov/es/CHNV">Leer más...</a>
+                    <a href="https://www.uscis.gov/es/CHNV">
+                        <i>Leer más...</i>
+                    </a>
                 </p>
             </div>
         );
