@@ -10,8 +10,8 @@ class Main extends Component {
             <HashRouter>
                 <div>
                     <img
-                        src="/infoconsular_logo.png"
-                        alt="infoconsular.com logo"
+                        src="/infoconsulogo.png"
+                        alt="infoconsular.online logo"
                     />
                     <p>
                         Bienvenidos a la página de información consular para
