@@ -5,6 +5,15 @@
 
 ### This website is intended to serve the communities under the following jurisdictions:
 
-### Boston,Chicago,Houston,Miami,New Orleans,New York,San Francisco,San Juan and Washington D.C.
+- Boston: Massachusetts, 
+- Chicago: Illinois, Minnesota, Wisconsin, Indiana, Michigan
+- Houston: Texas
+- Miami: Florida
+- New Orleans: Louisiana, 
+- New York City: New York, Pennsylvania, Connecticut, New Jersey, Rhode Island, Vermont and Delaware
+
+- San Francisco: California, 
+- San Juan, Puerto Rico
+- Washington D.C.
 
 
