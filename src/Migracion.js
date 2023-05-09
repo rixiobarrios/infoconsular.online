@@ -68,6 +68,26 @@ class Migracion extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <p>
+                    <h3>
+                        <u>
+                            Sobre anuncio de Embajada y Consulados de EEUU en
+                            México
+                        </u>
+                    </h3>
+                    Éste es un importante mensaje del gobierno de los Estados
+                    Unidos para migrantes de Venezuela.
+                    <b>
+                        Ya está funcionando un nuevo proceso que les permite
+                        hacer una solicitud por internet para viajar por avión a
+                        los Estados Unidos desde donde se encuentran.
+                    </b>{' '}
+                    Esa es la ÚNICA manera de entrar.
+                    <br></br>
+                    <a href="https://mx.usembassy.gov/es/anuncio-para-migrantes-de-venezuela/">
+                        <i>Leer más...</i>
+                    </a>
+                </p>
             </div>
         );
     }
