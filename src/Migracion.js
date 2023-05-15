@@ -88,6 +88,26 @@ class Migracion extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <p>
+                    <h3>
+                        <u>Sobre nuevo proceso para obtener asilo</u>
+                    </h3>
+                    A partir del 11 de mayo del 2023, DHS anunció la regla final
+                    sobre Elusión de las Vías Legales.
+                    <b>
+                        Se exhorta a las personas a usar vías legales, seguras y
+                        ordenadas para venir a Estados Unidos.
+                    </b>{' '}
+                    el gobierno de Estados Unidos presumirá que las personas que
+                    ingresan ilegalmente a Estados Unidos a través de su
+                    frontera terrestre suroeste o fronteras costeras adyacentes
+                    no son elegibles para asilo, a menos que puedan demostrar
+                    una excepción a la regla o refutar la presunción.
+                    <br></br>
+                    <a href="https://www.uscis.gov/es/programas-humanitarios/refugiados-y-asilo/asilo/obtener-asilo-en-los-estados-unidos">
+                        <i>Leer más...</i>
+                    </a>
+                </p>
             </div>
         );
     }
