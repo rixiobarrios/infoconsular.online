@@ -10,7 +10,7 @@ class Migracion extends Component {
                         <u>Sobre extensión de protección temporal (TPS)</u>
                     </h3>
                     El secretario Alejandro N. Mayorkas anuncio el 20 de Septiembre del 2023 la extensión y redesignación de Venezuela para el estatus de protección temporal
-                    <b>
+                    <b>{' '}
                         por un periodo de 18 meses para aquellos que llegaron a EEUU antes del 31 de julio del 2023.
                     </b>{' '}
                     Aquellos que llegaron después del 31 de julio del 2023 no son elegibles para dicha protección y, en su lugar, serán expulsados cuando se determine que no tienen una base legal para quedarse.
