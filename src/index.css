@@ -11,10 +11,11 @@ img {
 
 h1,
 h2,
+h3,
 p,
 ul,
 li {
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 ul.header li {
     display: inline;

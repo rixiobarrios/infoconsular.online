@@ -30,7 +30,7 @@ class Ayuda extends Component {
                     </u>
                 </h3>
                 <p>
-                    La función de ACNUR en los Estaos Unidos se enfoca en
+                    La función de ACNUR en los Estados Unidos se enfoca en
                     trabajar con el gobierno, y las organizaciones no
                     gubernamentales, además de las redes de voluntariado y
                     comunidades para asegurar la protección de refugiados y
