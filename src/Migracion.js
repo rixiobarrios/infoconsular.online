@@ -6,11 +6,7 @@ class Migracion extends Component {
             <div>
                 <h2>Asuntos Migratorios</h2>
                 <h3>
-                    <u>
-                        Sobre reanudación de deportaciones de venezolanos que no
-                        tienen una base legal para permanecer en los Estados
-                        Unidos a Venezuela
-                    </u>
+                    <u>Sobre reanudación de deportaciones de venezolanos</u>
                 </h3>
                 <p>
                     La administración de Biden anuncio el 5 de Octubre del 2023
