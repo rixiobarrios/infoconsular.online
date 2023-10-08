@@ -5,24 +5,31 @@ class Migracion extends Component {
         return (
             <div>
                 <h2>Asuntos Migratorios</h2>
+                <h3>
+                    <u>Sobre extensión de protección temporal (TPS)</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre extensión de protección temporal (TPS)</u>
-                    </h3>
-                    El secretario Alejandro N. Mayorkas anuncio el 20 de Septiembre del 2023 la extensión y redesignación de Venezuela para el estatus de protección temporal
-                    <b>{' '}
-                        por un periodo de 18 meses para aquellos que llegaron a EEUU antes del 31 de julio del 2023.
+                    El secretario Alejandro N. Mayorkas anuncio el 20 de
+                    Septiembre del 2023 la extensión y redesignación de
+                    Venezuela para el estatus de protección temporal
+                    <b>
+                        {' '}
+                        por un periodo de 18 meses para aquellos que llegaron a
+                        EEUU antes del 31 de julio del 2023.
                     </b>{' '}
-                    Aquellos que llegaron después del 31 de julio del 2023 no son elegibles para dicha protección y, en su lugar, serán expulsados cuando se determine que no tienen una base legal para quedarse.
+                    Aquellos que llegaron después del 31 de julio del 2023 no
+                    son elegibles para dicha protección y, en su lugar, serán
+                    expulsados cuando se determine que no tienen una base legal
+                    para quedarse.
                     <br></br>
                     <a href="https://www.dhs.gov/news/2023/09/21/el-secretario-mayorkas-anuncia-la-extension-y-redesignacion-de-venezuela-para-el">
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>Sobre vigencia de pasaporte Venezolano</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre vigencia de pasaporte Venezolano</u>
-                    </h3>
                     El Departamento de Estado de EEUU emitió un comunicado el 7
                     de junio del 2019 en el cual confirma el apoyo para la
                     extensión de la validez de los pasaportes Venezolanos por un
@@ -33,10 +40,10 @@ class Migracion extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>Sobre el estatus de protección temporal (TPS)</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre el estatus de protección temporal (TPS)</u>
-                    </h3>
                     El 11 de julio del 2022, el secretario de Seguridad Nacional
                     de EEUU anunció la extensión de la designación de Venezuela
                     al Estatus de Protección Temporal (TPS) por 18 meses. Esta
@@ -49,10 +56,10 @@ class Migracion extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>Sobre proceso de control migratorio</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre proceso de control migratorio</u>
-                    </h3>
                     El Departamento de Seguridad Nacional de EEUU anunció la
                     implementación de medidas conjuntas con México para{' '}
                     <b>
@@ -66,10 +73,10 @@ class Migracion extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>Sobre proceso de visado para México</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre proceso de visado para México</u>
-                    </h3>
                     A partir del 21 de enero del 2022 las{' '}
                     <b>
                         personas portadoras de pasaporte venezolano requieren
@@ -82,13 +89,12 @@ class Migracion extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>
+                        Sobre anuncio de Embajada y Consulados de EEUU en México
+                    </u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>
-                            Sobre anuncio de Embajada y Consulados de EEUU en
-                            México
-                        </u>
-                    </h3>
                     Éste es un importante mensaje del gobierno de los Estados
                     Unidos para migrantes de Venezuela.
                     <b>
@@ -102,10 +108,10 @@ class Migracion extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>Sobre nuevo proceso para obtener asilo</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre nuevo proceso para obtener asilo</u>
-                    </h3>
                     A partir del 11 de mayo del 2023, DHS anunció la regla final
                     sobre Elusión de las Vías Legales.
                     <b>

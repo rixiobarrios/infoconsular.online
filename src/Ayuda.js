@@ -5,13 +5,13 @@ class Ayuda extends Component {
         return (
             <div>
                 <h2>Ayuda en EEUU</h2>
+                <h3>
+                    <u>
+                        Sobre Ayuda para Refugiados y Personas que Ingresan al
+                        País - Asistencia Focalizada
+                    </u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>
-                            Sobre Ayuda para Refugiados y Personas que Ingresan
-                            al País - Asistencia Focalizada
-                        </u>
-                    </h3>
                     El Programa de Asistencia Focalizada tiene como finalidad
                     otorgar recursos para servicios relacionados con el empleo y
                     otros servicios sociales, a refugiados y otras poblaciones
@@ -23,13 +23,13 @@ class Ayuda extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>
+                        Sobre Ayuda para refugiados y solicitantes de asilo
+                        através de ACNUR
+                    </u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>
-                            Sobre Ayuda para refugiados y solicitantes de asilo
-                            através de ACNUR
-                        </u>
-                    </h3>
                     La función de ACNUR en los Estaos Unidos se enfoca en
                     trabajar con el gobierno, y las organizaciones no
                     gubernamentales, además de las redes de voluntariado y
@@ -40,10 +40,10 @@ class Ayuda extends Component {
                     </a>
                 </p>
                 <h2>Ayuda en Venezuela</h2>
+                <h3>
+                    <u>Sobre Plan Vuelta a la Patria</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre Plan Vuelta a la Patria</u>
-                    </h3>
                     El Plan Vuelta a la Patria fue creado por el Presidente
                     Maduro en agosto de 2018 para garantizar el retorno de
                     venezolanos que no cuentan con recursos propios y salieron

@@ -5,10 +5,10 @@ class Consulares extends Component {
         return (
             <div>
                 <h2>Asuntos Consulares</h2>
+                <h3>
+                    <u>Sobre trámites consulares en México</u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>Sobre trámites consulares en México</u>
-                    </h3>
                     El Ministerio del Poder Popular para Relaciones Exteriores
                     designo al Consulado General de la República Bolivariana de
                     Venezuela en México para que se ocupara de las operaciones
@@ -17,13 +17,13 @@ class Consulares extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>
+                        Sobre página de trámites consulares para venezolanos en
+                        EEUU
+                    </u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>
-                            Sobre página de trámites consulares para venezolanos
-                            en EEUU
-                        </u>
-                    </h3>
                     El 6 de septiembre del 2019, el gobierno de la República
                     Bolivariana de Venezuela habilitó una página de internet
                     para facilitar la realización de trámites a los venezolanos
@@ -33,13 +33,13 @@ class Consulares extends Component {
                         <i>Leer más...</i>
                     </a>
                 </p>
+                <h3>
+                    <u>
+                        Sobre el ingreso a Venezuela con pasaporte vencido y/o
+                        doble nacionalidad
+                    </u>
+                </h3>
                 <p>
-                    <h3>
-                        <u>
-                            Sobre el ingreso a Venezuela con pasaporte vencido
-                            y/o doble nacionalidad
-                        </u>
-                    </h3>
                     El artículo 7 de la Ley de Nacionalidad y Ciudadanía
                     contempla la obligatoriedad del uso de la nacionalidad
                     venezolana en los siguientes términos: “Los venezolanos y
