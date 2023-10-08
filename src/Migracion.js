@@ -112,7 +112,7 @@ class Migracion extends Component {
                         Se exhorta a las personas a usar vías legales, seguras y
                         ordenadas para venir a Estados Unidos.
                     </b>{' '}
-                    el gobierno de Estados Unidos presumirá que las personas que
+                    El gobierno de Estados Unidos presumirá que las personas que
                     ingresan ilegalmente a Estados Unidos a través de su
                     frontera terrestre suroeste o fronteras costeras adyacentes
                     no son elegibles para asilo, a menos que puedan demostrar

@@ -12,7 +12,10 @@ class Inicio extends Component {
                     </h3>
                     La República Bolivariana de Venezuela decidió cerrar sus
                     consulados y embajada en los estados unidos de América el 24
-                    de Enero del 2019.
+                    de Enero del 2019.<br></br>
+                    <a href="https://mppre.gob.ve/2019/01/23/venezuela-rompe-relaciones-diplomaticas-politicas-estados-unidos/">
+                        <i>Leer más...</i>
+                    </a>
                 </p>
 
                 <p>
