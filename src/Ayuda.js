@@ -19,7 +19,11 @@ class Ayuda extends Component {
                     siglas en inglés) en áreas de gran concentración de
                     refugiados y de uso muy frecuente de los servicios sociales.
                     <br></br>
-                    <a href="https://www.benefits.gov/es/benefit/873">
+                    <a
+                        href="https://www.benefits.gov/es/benefit/873"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <i>Leer más...</i>
                     </a>
                 </p>
@@ -35,7 +39,11 @@ class Ayuda extends Component {
                     gubernamentales, además de las redes de voluntariado y
                     comunidades para asegurar la protección de refugiados y
                     solicitantes de asilo.<br></br>
-                    <a href="https://help.unhcr.org/usa/es/">
+                    <a
+                        href="https://help.unhcr.org/usa/es/"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <i>Leer más...</i>
                     </a>
                 </p>
@@ -50,7 +58,11 @@ class Ayuda extends Component {
                     del país bajo engaños, en búsqueda de mejores condiciones de
                     vida y, por el contrario son agredidos y explotados en
                     distintas naciones.<br></br>
-                    <a href="https://mppre.gob.ve/plan-vuelta-a-la-patria/">
+                    <a
+                        href="https://mppre.gob.ve/plan-vuelta-a-la-patria/"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <i>Leer más...</i>
                     </a>
                 </p>

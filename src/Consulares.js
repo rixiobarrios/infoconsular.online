@@ -13,7 +13,11 @@ class Consulares extends Component {
                     designo al Consulado General de la República Bolivariana de
                     Venezuela en México para que se ocupara de las operaciones
                     consulares de los Venezolanos en EEUU.<br></br>
-                    <a href="https://mexico.embajada.gob.ve/">
+                    <a
+                        href="https://mexico.embajada.gob.ve/"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <i>Leer más...</i>
                     </a>
                 </p>
@@ -29,7 +33,11 @@ class Consulares extends Component {
                     para facilitar la realización de trámites a los venezolanos
                     en el territorio estadounidense.
                     <br></br>
-                    <a href="https://mppre.gob.ve/comunicado/venezuela-facilitara-gestion-eeuu-venezolanos/">
+                    <a
+                        href="https://mppre.gob.ve/comunicado/venezuela-facilitara-gestion-eeuu-venezolanos/"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <i>Leer más...</i>
                     </a>
                 </p>
@@ -53,7 +61,11 @@ class Consulares extends Component {
                     y políticos” (Gaceta Oficial de la República Bolivariana de
                     Venezuela N° 37.971 de fecha 1 de Julio de 2004).
                     <br></br>
-                    <a href="https://www.acnur.org/fileadmin/Documentos/BDL/2004/2866.pdf">
+                    <a
+                        href="https://www.acnur.org/fileadmin/Documentos/BDL/2004/2866.pdf"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <i>Leer más...</i>
                     </a>
                 </p>
