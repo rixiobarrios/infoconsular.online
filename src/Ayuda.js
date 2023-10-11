@@ -49,17 +49,22 @@ class Ayuda extends Component {
                 </p>
                 <h2>Ayuda en Venezuela</h2>
                 <h3>
-                    <u>Sobre Plan Vuelta a la Patria</u>
+                    <u>
+                        Sobre acuerdo para repatriación ordenada y segura de
+                        connacionales desde EEUU
+                    </u>
                 </h3>
                 <p>
-                    El Plan Vuelta a la Patria fue creado por el Presidente
-                    Maduro en agosto de 2018 para garantizar el retorno de
-                    venezolanos que no cuentan con recursos propios y salieron
-                    del país bajo engaños, en búsqueda de mejores condiciones de
-                    vida y, por el contrario son agredidos y explotados en
-                    distintas naciones.<br></br>
+                    El Gobierno Bolivariano de Venezuela anuncio el 5 de Octubre
+                    del 2023 que, en el marco de las conversaciones sostenidas
+                    entre las autoridades de la República Bolivariana de
+                    Venezuela y las autoridades de los Estados Unidos de
+                    América, ha suscrito un acuerdo sobre migración que permita
+                    la repatriación ordenada, segura y legal de ciudadanos
+                    venezolanos desde los Estados Unidos.
+                    <br></br>
                     <a
-                        href="https://mppre.gob.ve/plan-vuelta-a-la-patria/"
+                        href="https://mppre.gob.ve/comunicado/venezuela-suscribe-acuerdo-repatriacion-ordenada-segura-connacionales-eeuu/"
                         target="_blank"
                         rel="noreferrer"
                     >
